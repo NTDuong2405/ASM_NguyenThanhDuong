@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ASM_NguyenThanhDuong:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ASM_NguyenThanhDuong</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ASM_NguyenThanhDuong-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ASM_NguyenThanhDuong:war exploded" />
+    </root>
+  </artifact>
+</component>
